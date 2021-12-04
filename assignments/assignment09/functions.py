@@ -158,3 +158,4 @@ def get_addresses(fh):
         else:
             temp_list.append(i.strip())
     return addresses
+    
